@@ -1,5 +1,5 @@
 //
-//  ModelSingleton.h
+//  locais.h
 //  War of Hospital
 //
 //  Created by Guilherme Naves on 3/14/15.
@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface ModelSingleton : NSObject
+@interface locais : NSObject
 
 @end

@@ -1,13 +1,13 @@
 //
-//  ModelSingleton.m
+//  LocaisViewController.h
 //  War of Hospital
 //
 //  Created by Guilherme Naves on 3/14/15.
 //  Copyright (c) 2015 Mpex. All rights reserved.
 //
 
-#import "ModelSingleton.h"
+#import <UIKit/UIKit.h>
 
-@implementation ModelSingleton
+@interface LocaisViewController : UIViewController
 
 @end
